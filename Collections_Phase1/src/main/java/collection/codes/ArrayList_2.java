@@ -3,12 +3,12 @@ import java.util.*;
 public class ArrayList_2 {
     public static void main(String[] args) {
         List<Integer> l = new ArrayList();
-            l.add(10);
-            l.add(20);
-            l.add(30);
-            if(l.contains(20)){
-                System.out.println("Present");
-            }
+        l.add(10);
+        l.add(20);
+        l.add(30);
+        if (l.contains(20)) {
+            System.out.println("Present");
+        }
             List<Integer>list=new ArrayList();
             list.add(20);
             list.add(50);

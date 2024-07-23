@@ -8,7 +8,7 @@ public class Stack_1 {
         st.push(40);
         System.out.println("Top element: "+st.peek());
         st.pop();
-        ListIterator<Integer> itr=st.listIterator(st.size());
+        ListIterator itr=st.listIterator(st.size());
         while(itr.hasPrevious()){
             System.out.println(itr.previous());
         }
