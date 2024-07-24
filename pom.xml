@@ -24,6 +24,8 @@
 	<modules>
 		<module>Collections-Phase _1</module>
 		<module>Collections_Phase1</module>
+        <module>Collections_Phase2</module>
+		<module>Collections_Phase2</module>
 	</modules>
 	<scm>
 		<connection/>
