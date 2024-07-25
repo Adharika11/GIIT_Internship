@@ -9,7 +9,7 @@ class Student implements Comparable<Student> {
     }
     @Override
     public int compareTo(Student other) {
-        return Integer.compare(this.age,other.age); // Natural ordering by name
+        return Integer.compare(this.age,other.age);
     }
     @Override
     public String toString() {
