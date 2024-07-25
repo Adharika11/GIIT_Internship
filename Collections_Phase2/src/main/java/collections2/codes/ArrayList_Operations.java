@@ -19,6 +19,12 @@ public class ArrayList_Operations {
         al.add(2,40);
         System.out.println(al);
 
+        //Search
+        if(al.contains(33))
+            System.out.println("Present");
+        else
+            System.out.println("Not present");
+
         //remove at specified position
         al.remove(1);
         System.out.println(al);
