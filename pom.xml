@@ -26,7 +26,8 @@
 		<module>Collections_Phase1</module>
         <module>Collections_Phase2</module>
 		<module>Collections_Phase2</module>
-	</modules>
+        <module>Database_Queries</module>
+    </modules>
 	<scm>
 		<connection/>
 		<developerConnection/>
