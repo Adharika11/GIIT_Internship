@@ -27,7 +27,9 @@
         <module>Collections_Phase2</module>
 		<module>Collections_Phase2</module>
         <module>Database_Queries</module>
-    </modules>
+        <module>Springboot</module>
+		<module>Springboot</module>
+	</modules>
 	<scm>
 		<connection/>
 		<developerConnection/>
